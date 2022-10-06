@@ -11,6 +11,18 @@ root.render(
       <h1>React Weather App</h1>
     </div>
     <App />
+    <footer className="App">
+      <p>
+        <a
+          href="https://github.com/nmariahpaul/weather-react"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-sourced code
+        </a>
+        , by Mariah Paul
+      </p>
+    </footer>
   </React.StrictMode>
 );
 

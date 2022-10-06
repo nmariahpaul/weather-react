@@ -16,6 +16,10 @@
   list-style-type: none;
 }
 
+footer p {
+  font-size: 12px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
